@@ -18,3 +18,7 @@ Usage:
 
 This binary functions as both the client and the server. It does not encrypt
 communications.
+
+Bug:
+----
+1) timeout control has some bug ,need to fix[TODO]
